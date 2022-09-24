@@ -1,0 +1,159 @@
+/* .main{
+    margin-top: 100px;
+    text-align: center;
+    
+} */
+
+/* This css code for centering the element */
+/* .logo-img {
+    display: block;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search-input {
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 24px;
+    padding: 10px 30px 10px 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
+    
+} */
+/* .btn{
+    margin-left: 4px;
+    margin-left: 4px; */
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto; */
+    /* margin-top: 30px; 
+    background-color: #dfe1e5;
+    border: none;
+    padding: 8px 16px 8px 16px;
+    border-radius: 10px;
+    font-size: 14px;
+} */
+
+
+/* MARGIN */
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+/* .red{
+    background: red;
+    height: 100px;
+}
+.blue{
+    background: blue;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+ 
+}
+.green{
+    background: green;
+    height: 100px;
+} */
+
+/* Padding css code example */
+/* .card{
+    color: #222222;
+    background: lightgoldenrodyellow;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+} */
+
+/* Border and border-radius css code  */
+/* .card{
+    color: #222222;
+    background: lightgoldenrodyellow;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border: 5px solid #222222;
+    border-radius: 20px;
+
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+} */
+
+/* MAKE TWITTER FOLLOWING BUTTON */
+
+/* button{
+    color: #0f1419;
+    border: 1px solid #cfd9de;
+    border-radius: 20px;
+    background: white;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+    
+} */
+
+/* .nav-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.item{
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+} */
+
+/* card css code */
+
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.avatar{
+    width: 150px;
+}
+.card{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 8px solid #d8cefe;
+    background: #ddebf8;
+    color: #2b2839
+  
+    
+}
+/* css inheritance */
+
+/* body{
+    margin: 10px;
+    text-align: center;
+} */
+
+/* margin and padding shorthhand */
+
+
+
